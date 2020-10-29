@@ -11,9 +11,10 @@ Example <https://github.com/MiniValine/docs/blob/main/en/index.html>
         window.$docsify = {
 			//...
 			MiniValine: {
+                docPath: 'full', // If not root,It is needed.
 				appId: '<APP_ID>',
 				appKey: '<APP_Key>',
-				//More Options https://github.com/MiniValine/MiniValine#options
+				//More Options https://minivaline.github.io/docs/en/#/Options   except [el]
 			}
 			//...
         }
