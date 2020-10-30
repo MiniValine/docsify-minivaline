@@ -11,7 +11,6 @@ Example <https://github.com/MiniValine/docs/blob/main/en/index.html>
         window.$docsify = {
 			//...
 			MiniValine: {
-                docPath: 'full', // If not root,It is needed.
 				appId: '<APP_ID>',
 				appKey: '<APP_Key>',
 				//More Options https://minivaline.github.io/docs/en/#/Options   except [el]
@@ -20,7 +19,7 @@ Example <https://github.com/MiniValine/docs/blob/main/en/index.html>
         }
     </script> 
     //...
-	<script src='//cdn.jsdelivr.net/npm/minivaline@4/dist/MiniValine.min.js'></script>
+	<script src='//cdn.jsdelivr.net/npm/minivaline@latest/dist/MiniValine.min.js'></script>
 	<script src="//cdn.jsdelivr.net/npm/docsify-minivaline@latest/dist/docsify-minivaline.min.js"></script> 
 </body>
 ```

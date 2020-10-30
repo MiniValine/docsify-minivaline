@@ -1,6 +1,6 @@
 {
   "name": "docsify-minivaline",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "MiniValine for docsify",
   "main": "dist/minivaline.min.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://https://github.com/MiniValine/docsify-minivaline.git"
+    "url": "git+https://github.com/MiniValine/docsify-minivaline.git"
   },
   "keywords": [
     "minivaline"
