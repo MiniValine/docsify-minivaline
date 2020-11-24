@@ -13,7 +13,8 @@ Example <https://github.com/MiniValine/docs/blob/main/en/index.html>
 			MiniValine: {
 				appId: '<APP_ID>',
 				appKey: '<APP_Key>',
-				//More Options https://minivaline.github.io/docs/en/#/Options   except [el]
+				//More Options https://minivaline.github.io/docs/en/#/Options
+				//Support base-options&style-options | Except mount-options
 			}
 			//...
         }
